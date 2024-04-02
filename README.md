@@ -1,2 +1,7 @@
-# pig-game
-Pig is a simple dice game where players take turns to roll a single dice as many times as they wish, adding all roll results to a running total.
+# Pig Game
+
+This repository contains the source code for a very popular Dice game.
+
+## Preview:
+
+![Application Preview Here](./preview.png)
